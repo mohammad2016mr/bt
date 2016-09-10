@@ -1,11 +1,11 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '270357197:AAGmo0vxen6ygOaAs8Qy3DsFY_MmQaRbAxQ',
 	version = '4.1.1',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
-	superadmins = {23646077, 1},
+	superadmins = {90516804,172561830},
 	log_chat = -1001057801239,
-	log_admin = 23646077,
+	log_admin = 90516804,172561830
 	bot_settings = {
 		cache_time = {
 			adminlist = 18000, --5 hours (18000s)
@@ -16,12 +16,12 @@ return {
 		log_api_errors = false,
 		stream_commands = true
 	},
-	channel = '@groupbutler_beta', --channel username with the '@'
-	source_code = 'https://github.com/RememberTheAir/GroupButler',
+	channel = '@forcetg_ch', --channel username with the '@'
+	source_code = 'https://github.com',
 	help_groups = {
-		['Internatonal (English)'] = 'https://telegram.me/joinchat/ENgroupbutler', --group link, not username!
-		['Italian'] = 'https://telegram.me/joinchat/ITgroupbutler',
-		['Persian'] = 'https://telegram.me/joinchat/CHYUej8VRwlY9dzoKMERog',
+		['Internatonal (English)'] = 'https://telegram.me/joinchat/ENgroupbutle', --group link, not username!
+		['Italian'] = 'https://telegram.me/joinchat/ITgroupbutle',
+		['Persian'] = 'https://telegram.me/joinchat/BWUtREEIvJN3VnoEDk-3gg',
 		['Spanish'] = false
 	},
 	plugins = {
